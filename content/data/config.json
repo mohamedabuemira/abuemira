@@ -36,7 +36,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/mohamedabuemira",
                 "icon": "github"
             }
         ],
@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:mohamed.abuemira@gmail.com",
                 "altText": ""
             },
             {
@@ -70,21 +70,27 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/mohamedabuemira",
+                "altText": " project"
+            },
+              {
+                "type": "Link",
+                "label": "Linkedin",
+                "url": "https://www.linkedin.com/in/abuemira/",
+                "altText": " Linkedin"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "0100-506-1349",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "mohamed.abuemira@gmail.com",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Powered by [abuemira](https://www.linkedin.com/in/abuemira/)",
         "styles": {
             "self": {
                 "width": "narrow",
