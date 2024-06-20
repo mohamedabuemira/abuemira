@@ -73,11 +73,21 @@
                 "url": "https://github.com/mohamedabuemira",
                 "altText": " project"
             },
-              {
+            {
                 "type": "Link",
                 "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/abuemira/",
                 "altText": " Linkedin"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/https://bento.me/abuemira",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
@@ -94,7 +104,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
