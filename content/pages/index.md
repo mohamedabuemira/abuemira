@@ -15,10 +15,16 @@ sections:
     backgroundSize: full
     title: "I’m\_I'm Functional Consultant passionate about ERP/eCommerce implementations.."
     subtitle: >-
-      I'm Odoo Techno Functional, with experience implementing financial and
-      supply chain management, sales, CRM, planning, manufacturing and HRM.
-      Technical and business skills keep understanding customer needs and
-      perform successful implementation..
+      with experience implementing financial and supply chain management, sales,
+      CRM, planning, manufacturing and HRM. Technical and business skills keep
+      understanding customer needs and perform successful
+      implementation.specialist: financial, trade & logistics, discrete
+      manufacturing, process manufacturing, HR, Real estateI'm Odoo Techno
+      Functional, with experience implementing financial and supply chain
+      management, sales, CRM, planning, manufacturing and HRM. Technical and
+      business skills keep understanding customer needs and perform successful
+      implementation.. specialist: financial, trade & logistics, discrete
+      manufacturing, process manufacturing, HR, Real estate.
     styles:
       self:
         height: auto
