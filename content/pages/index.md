@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "I’m\_I'm Odoo, a Functional Consultant passionate about ERP/eCommerce implementations.."
+    title: "I’m\_I'm Functional Consultant passionate about ERP/eCommerce implementations.."
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
